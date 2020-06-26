@@ -7,5 +7,5 @@ Assign a material and move the decal node around inside your 3D scene to
 your wanted position and you're done!
 
 See also:
-https://github.com/Miziziziz/GodotProjectedDecals
-https://github.com/Mr-Slurpy/Screen-Space-Decals
+ - [GodotProjectedDecals](https://github.com/Miziziziz/GodotProjectedDecals)
+ - [Screen-Space-Decals](https://github.com/Mr-Slurpy/Screen-Space-Decals)
